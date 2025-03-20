@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Dr. Sarah Johnson",
+      "title": "Mathematics, Physics",
+      "description": "PhD in Mathematics with 10+ years teaching experience from high school to university level.",
+      "degree": "PhD Mathematics",
+      "sessions": "150+ Sessions",
+      "rating": 4.8
+    },
+    {
+      "name": "Prof. Michael Chen",
+      "title": "Computer Science, Programming",
+      "description": "Software engineer and adjunct professor specializing in web development and algorithms.",
+      "degree": "MS Computer Science",
+      "sessions": "200+ Sessions",
+      "rating": 5.0
+    },
+    {
+      "name": "Emma Williams",
+      "title": "English, Literature, Writing",
+      "description": "Published author and English professor with expertise in creative writing and essay composition.",
+      "degree": "MA English Literature",
+      "sessions": "180+ Sessions",
+      "rating": 4.9
+    }
+  ]
+  

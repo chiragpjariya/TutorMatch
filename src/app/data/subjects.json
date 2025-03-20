@@ -1,0 +1,33 @@
+[
+    {
+      "icon": "📊",
+      "title": "Mathematics",
+      "topics": "Algebra, Calculus, Statistics"
+    },
+    {
+      "icon": "🧪",
+      "title": "Science",
+      "topics": "Physics, Chemistry, Biology"
+    },
+    {
+      "icon": "🈳",
+      "title": "Languages",
+      "topics": "Spanish, French, Mandarin"
+    },
+    {
+      "icon": "📖",
+      "title": "English",
+      "topics": "Literature, Writing, Grammar"
+    },
+    {
+      "icon": "💻",
+      "title": "Programming",
+      "topics": "Python, Java, Web Development"
+    },
+    {
+      "icon": "📝",
+      "title": "Test Prep",
+      "topics": "SAT, ACT, GRE, GMAT"
+    }
+  ]
+  

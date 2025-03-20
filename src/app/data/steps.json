@@ -1,0 +1,23 @@
+[
+    {
+      "icon": "🔍",
+      "title": "Search",
+      "description": "Browse profiles by subject, review ratings, and find your ideal tutor match."
+    },
+    {
+      "icon": "📅",
+      "title": "Connect",
+      "description": "Schedule a session at a time that works for you, in-person or online."
+    },
+    {
+      "icon": "🎓",
+      "title": "Learn",
+      "description": "Enjoy personalized learning experience and reach your academic goals."
+    },
+    {
+      "icon": "⭐",
+      "title": "Review",
+      "description": "Share your experience to help others find great tutors."
+    }
+  ]
+  
